@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>IcyFire</title>
+  
+  <subtitle>Blog of DanielHe</subtitle>
+  <link href="http://dainelhe666.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://dainelhe666.github.io/"/>
+  <updated>2021-08-07T12:17:08.613Z</updated>
+  <id>http://dainelhe666.github.io/</id>
+  
+  <author>
+    <name>Daniel He</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>笑傲江湖</title>
+    <link href="http://dainelhe666.github.io/2021/08/06/%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96/"/>
+    <id>http://dainelhe666.github.io/2021/08/06/%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96/</id>
+    <published>2021-08-06T14:58:01.350Z</published>
+    <updated>2021-08-07T12:17:08.613Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;第01章-灭门&quot;&gt;&lt;a href=&quot;#第01章-灭门&quot; class=&quot;headerlink&quot; title=&quot;第01章　灭门&quot;&gt;&lt;/a&gt;第01章　灭门&lt;/h2&gt;&lt;p&gt;和风熏柳，花香醉人，正是南国春光漫烂季节。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="金庸小说" scheme="http://dainelhe666.github.io/categories/%E9%87%91%E5%BA%B8%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>字体样式样例</title>
+    <link href="http://dainelhe666.github.io/2021/08/05/%E6%96%87%E7%AB%A0%E5%AD%97%E4%BD%93%E6%A0%B7%E5%BC%8F/"/>
+    <id>http://dainelhe666.github.io/2021/08/05/%E6%96%87%E7%AB%A0%E5%AD%97%E4%BD%93%E6%A0%B7%E5%BC%8F/</id>
+    <published>2021-08-05T14:17:01.788Z</published>
+    <updated>2021-08-06T14:29:49.346Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;接下来就是见证奇迹的时刻&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>RayChess招聘公告</title>
+    <link href="http://dainelhe666.github.io/2021/08/03/RayChess%E6%8B%9B%E8%81%98%E5%85%AC%E5%91%8A/"/>
+    <id>http://dainelhe666.github.io/2021/08/03/RayChess%E6%8B%9B%E8%81%98%E5%85%AC%E5%91%8A/</id>
+    <published>2021-08-03T15:20:49.278Z</published>
+    <updated>2021-08-03T15:22:13.174Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;招聘公告&lt;/p&gt;
+&lt;h3 id=&quot;1-游戏策划&quot;&gt;&lt;a href=&quot;#1-游戏策划&quot; class=&quot;headerlink&quot; title=&quot;1. 游戏策划&quot;&gt;&lt;/a&gt;1. 游戏策划&lt;/h3&gt;&lt;p&gt;负责说明书、介绍文字、游戏规则细节设计&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://dainelhe666.github.io/2021/08/02/hello-world/"/>
+    <id>http://dainelhe666.github.io/2021/08/02/hello-world/</id>
+    <published>2021-08-01T22:38:09.001Z</published>
+    <updated>2021-08-04T15:03:59.778Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Others" scheme="http://dainelhe666.github.io/categories/Others/"/>
+    
+    
+    <category term="hexo" scheme="http://dainelhe666.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
